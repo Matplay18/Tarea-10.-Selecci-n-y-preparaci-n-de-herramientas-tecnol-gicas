@@ -59,9 +59,6 @@ lead-funnel-platform/
 
     Clonar el repositorio:
 
-git clone https://github.com/mateofreire/embudos-marketing-automatizados.git
-cd lead-funnel-platform
-
 Instalar dependencias:
 
     Para frontend:
