@@ -2,6 +2,9 @@
 
 📌 Avance actualizado – julio 2025
 
+DOCUMENTACIÓN:
+https://docs.google.com/document/d/18vsUH5oVOVV3z55vs9zgvA47exybGhtJ6pT4p5qws7g/edit?usp=sharing 
+
 Proyecto de tesis:
 Desarrollo de una plataforma web accesible para automatizar embudos de marketing digital dirigida a pequeños negocios.
 
