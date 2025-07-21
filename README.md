@@ -108,6 +108,14 @@ Configurar variables de entorno (.env en ambos entornos):
 
 Esta actualización representa una mejora significativa en la calidad, sostenibilidad y alcance del proyecto. Al adoptar tecnologías ampliamente utilizadas como React y Node.js, el desarrollo se vuelve más profesional, escalable y compatible con estándares actuales. Además, la estructuración por capas y el uso de buenas prácticas técnicas refuerzan la calidad del entregable final.
 
+📚 Autor
+
+Mateo Freire
+Estudiante de Ingeniería de Software
+Tesis de pregrado – Plataforma para la automatización de embudos de marketing digital.
+
+Avance fecha 21/07/2025
+
 
 
 # Tarea-10.-Selecci-n-y-preparaci-n-de-herramientas-tecnol-gicas
